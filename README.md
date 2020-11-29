@@ -1,14 +1,13 @@
-This repository  includes automated tests for the `https://www.saucedemo.com` website.
+This repository  includes automated tests for [Swag Labs](https://www.saucedemo.com) application.
 
 
-## Packages
-The project uses the following packages:
-* Selenium WebDriver 3.141.59
-* ChromeDriver 83.0.4103.97 
-* Java JDK 11 or higher
-* Apache Maven 3.6.3
-* TestNG 7.1.0
-* Cucumber 6.2.2
+## Languages and Frameworks
+The project uses the following languages and frameworks:
+* Java 11 as the programming language
+* TestNG as the test framework
+* Cucumber for behavior-driven testing
+* Selenium WebDriver as the web browser automation framework
+* WebDriverManager as the Selenium binaries management
 
 
 ## Author
